@@ -23,6 +23,7 @@ I’m an aspiring artist and writer with love for dark folktales and storytellin
 - To bring the story to life, I used the drawing program Krita, Adobe After Effects and Adobe Premiere 
 - The project was left with an open ending but with a lot of illustrations left to be animated
 - And for that, I have decided to continue and make this into my Bachelot work
+- Watch the whole short here: https://www.youtube.com/watch?v=OsIBCO0sSIc 
 
 
 ### Cat’s life ("Under The Cat’s Weather")
