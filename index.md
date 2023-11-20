@@ -28,6 +28,13 @@ I’m an aspiring artist and writer with love for dark folktales and storytellin
 
 ### Cat’s life ("Under The Cat’s Weather")
 - Storyboard and basic story concept
+- Made as an excercise in concept and storyboard for my drawing subjects
+- The story is about a family of three cat’s living their dream life, until new arrival in the personification of a small disorderly kitten arrives
+- It’s basically a more serious story about harder subjects disguised as typical "animal’s adventures" popular in the 1980-1990s
+- The main cast consists of:
+  1. Blanka - a prideful sphynx cat who needs to learn to be confortable in her own skin
+  2. Rupus - little energetic kitten stealing Blanka’s spotlight and acting like a spoiled brat
+  3. 
 
 
 ### Personal projects 
