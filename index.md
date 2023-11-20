@@ -18,7 +18,9 @@ I’m an aspiring artist and writer with love for dark folktales and storytellin
 
 ### The Boots Walk Quietly 
 - Concept art and story development of an animated movie
-
+- "The Boots Walk Quietly" is an animated short that was created in the last summer as a school project
+- It’s an animated horror with the fairy tale aspects sprinkled in
+- The project was left with an open ending but with a lot of illustrations left to be animated, so I have decided to continue and make this into my Bachelot work
 
 
 ### Cat’s life ("Under The Cat’s Weather")
