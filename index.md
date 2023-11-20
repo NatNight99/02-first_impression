@@ -28,4 +28,6 @@ I’m an aspiring artist and writer with love for dark folktales and storytellin
 ### Personal projects 
 
 
-### 
+### Babu in the Night City 
+- my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
+- lipsynk and 3D editing/modeling of the character parts 
