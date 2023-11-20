@@ -17,4 +17,15 @@ I’m an aspiring artist and writer with love for dark folktales and storytellin
 ## [Featured projects](FeaturedProjects.md)
 
 ### The Boots Walk Quietly 
-- Concept art and story development of an animated movie 
+- Concept art and story development of an animated movie
+
+
+
+### Cat’s life ("Under The Cat’s Weather")
+- Storyboard and basic story concept
+
+
+### Personal projects 
+
+
+### 
