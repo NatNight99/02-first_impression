@@ -55,8 +55,14 @@ _Cat’s together_
   1. Blanka - a prideful sphynx cat who needs to learn to be confortable in her own skin
   2. Rupert - little energetic bengal kitten stealing Blanka’s spotlight and acting like a spoiled brat
   3. Claudius - an old wise male maine coon cat, trying to keep the family together while facing his own mortality
+ 
+### Headshot illustration
 
-### Storyboard (picture here:) 
+### Storyboard 
+- few pages of storyboard 
+![10](https://github.com/NatNight99/02-first_impression/assets/129601977/b0d17207-4bb7-4ab4-97a2-5672d0cdc6cd)
+![11](https://github.com/NatNight99/02-first_impression/assets/129601977/a2d2c0b8-915e-4e97-822c-2533eea8cc28)
+![12](https://github.com/NatNight99/02-first_impression/assets/129601977/c1ef20a1-43f8-4323-ab38-7d2d95eb2833)
  
      
 ## Babu in the Night City 
