@@ -8,7 +8,7 @@
 
 Hi, my name is Natálie Němcová. 
 I’m an aspiring artist and writer with love for dark folktales and storytelling.  
-I devoted my life to studying works art and trying to find my own creative voice as an illustrator and amateur writer.
+I devoted my life to studying works of art. I’ still trying to find my own creative voice as an illustrator and amateur writer.
 
 ![unceremonious headshot](https://github.com/NatNight99/02-first_impression/assets/129601977/1501c6c7-d977-4770-a66a-f009901af6c1)
 
@@ -32,7 +32,6 @@ _Mr. Acornie overlooking his peaceful forest_
 ![18 shot samostatný obraz](https://github.com/NatNight99/02-first_impression/assets/129601977/fa6088f1-9c71-4ea3-82c0-63e4530173fd)
 _Will he make it out alive?_
 
-- Concept art and story development of an animated movie
 - "The Boots Walk Quietly" is an animated short that was created in the last summer as a school project
 - It’s an animated horror with the fairy tale aspects sprinkled in
 - To bring the story to life, I used the drawing program Krita, Adobe After Effects and Adobe Premiere 
@@ -48,12 +47,13 @@ _Will he make it out alive?_
 _Cat’s together_
 
 - Storyboard and basic story concept
-- Made as an excercise in concept and storyboard for my drawing lesson with Mr. Korman 
-- The story is about a family of three cat’s living their dream life, until new arrival in the personification of a small disorderly kitten arrives
-- It’s basically a more serious story about harder subjects disguised as typical "animal’s adventures" popular in the 1980-1990s
+- Made as an excercise in concept and storyboard for my drawing lessons with Mr. Korman 
+- The story is about a cat family, living their dream life, until the arrival in of a small disorderly kitten 
+- It’s basically a more serious story about harder subjects disguised as typical "animal’s adventures" popular in the 1980-1990s (live-action or animated)
+  
 - The main cast consists of:
   1. Blanka - a prideful sphynx cat who needs to learn to be confortable in her own skin
-  2. Rupert - little energetic bengal kitten stealing Blanka’s spotlight and acting like a spoiled brat
+  2. Rupert - little energetic bengal kitten stealing Blanka’s spotlight and is acting like a spoiled brat
   3. Claudius - an old wise male maine coon cat, trying to keep the family together while facing his own mortality
  
 ### Headshot illustration
@@ -87,6 +87,5 @@ _sketches and instructions from our Art director_
 ![Snímek obrazovky 2023-11-21 v 10 05 30](https://github.com/NatNight99/02-first_impression/assets/129601977/783b3925-bc63-4216-819f-65afe683e554)
 _Inside Blender
 
-
-- my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
+- My work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
 - lipsynk and 3D editing/modeling of the character parts 
