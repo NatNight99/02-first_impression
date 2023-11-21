@@ -24,7 +24,7 @@ I’m an aspiring artist and writer with love for dark folktales and storytellin
 - The project was left with an open ending but with a lot of illustrations left to be animated
 - And for that, I have decided to continue and make this into my Bachelot work
 - Watch the whole short here: https://www.youtube.com/watch?v=OsIBCO0sSIc
-- * Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But that all changes. On one fatefull day, a terrible evil with sharp teeth and two shoelaces walks into his life. Will he win his fight for survival? Or will the terrifying shoe devore him alive? We will see…
+* Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But that all changes. On one fatefull day, a terrible evil with sharp teeth and two shoelaces walks into his life. Will he win his fight for survival? Or will the terrifying shoe devore him alive? We will see…
 
 
 ### Cat’s life ("Under The Cat’s Weather")
