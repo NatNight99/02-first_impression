@@ -34,7 +34,7 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
 - Watch the whole short here: https://www.youtube.com/watch?v=OsIBCO0sSIc
 
 
-## Cat’s life ("Under The Cat’s Weather")
+## Cat’s life ("Under the Cat’s Weather")
 
 ### Concept art (picture here:) 
 
