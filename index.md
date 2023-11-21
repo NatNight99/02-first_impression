@@ -39,6 +39,9 @@ _Will he make it out alive?_
 - And for that, I have decided to continue and make this into my Bachelot work
 - Watch the whole short here: https://www.youtube.com/watch?v=OsIBCO0sSIc
 
+ ### The characters
+ 
+
 
 ## Cat’s life ("Under the Cat’s Weather")
 
