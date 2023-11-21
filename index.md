@@ -57,6 +57,7 @@ _Cat’s together_
   3. Claudius - an old wise male maine coon cat, trying to keep the family together while facing his own mortality
  
 ### Headshot illustration
+![kočky_headshots](https://github.com/NatNight99/02-first_impression/assets/129601977/56302a25-05de-4409-a946-1d914d1b54fe) 
 
 ### Storyboard 
 - few pages of storyboard 
