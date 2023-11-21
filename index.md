@@ -27,8 +27,10 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
 
 ![shot 1_concept](https://github.com/NatNight99/02-first_impression/assets/129601977/ef5035d0-b4fe-4910-96e4-8385ee682e1b) 
 _Mr. Acornie overlooking his peaceful forest_
-![18 shot samostatný obraz](https://github.com/NatNight99/02-first_impression/assets/129601977/fa6088f1-9c71-4ea3-82c0-63e4530173fd)
+![8 shot](https://github.com/NatNight99/02-first_impression/assets/129601977/bf0d9dbe-7857-4793-834a-414246769d3e) 
 _...but everything changed when the beast attacked_
+![18 shot samostatný obraz](https://github.com/NatNight99/02-first_impression/assets/129601977/fa6088f1-9c71-4ea3-82c0-63e4530173fd)
+_Will he make it out alive?_
 
 - Concept art and story development of an animated movie
 - "The Boots Walk Quietly" is an animated short that was created in the last summer as a school project
