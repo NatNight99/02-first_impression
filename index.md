@@ -24,6 +24,8 @@ _...I’m also a pessimistic witch in my spare time. Don’t tell my mum, I dare
 _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But that all changes. On one fatefull day, a terrible evil with sharp teeth and two shoelaces walks into his life. Will he win his fight for survival? Or will the terrifying shoe devore him alive? We will see…_
 
 ### Concept art (picture here)
+![18 shot samostatný obraz](https://github.com/NatNight99/02-first_impression/assets/129601977/fa6088f1-9c71-4ea3-82c0-63e4530173fd)
+
 
   
 - Concept art and story development of an animated movie
