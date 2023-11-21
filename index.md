@@ -19,11 +19,11 @@ _...I’m also a pessimistic witch in my spear time. Don’t tell my mum, I dare
 
 ## The Boots Walk Quietly
 
-### Gif
+### Gif (here) 
 
 _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But that all changes. On one fatefull day, a terrible evil with sharp teeth and two shoelaces walks into his life. Will he win his fight for survival? Or will the terrifying shoe devore him alive? We will see…_
 
-### Concept art
+### Concept art (picture here)
   
 - Concept art and story development of an animated movie
 - "The Boots Walk Quietly" is an animated short that was created in the last summer as a school project
@@ -36,7 +36,7 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
 
 ## Cat’s life ("Under The Cat’s Weather")
 
-### Concept art
+### Concept art (picture here:) 
 
 - Storyboard and basic story concept
 - Made as an excercise in concept and storyboard for my drawing subjects
@@ -47,17 +47,19 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
   2. Rupert - little energetic bengal kitten stealing Blanka’s spotlight and acting like a spoiled brat
   3. Claudius - an old wise male maine coon cat, trying to keep the family together while facing his own mortality
 
-### Storyboard
+### Storyboard (picture here:) 
  
      
 ## Babu in the Night City 
 
-Picture here:
+Picture here: official
 
 ### Director’s statement
 _Following the mysterious disappearance of her dad, 8-year-old Babu is often alone at home with her parrot. When a thief steals it, Babu sets off on a night-time expedition to save her animal friend. During her journey, she finds unexpected allies: an unsuccessful rapper, a night jogger and a homeless man. Together, they must overcome the mad Professor X who is able to transform humans into animals and vice versa. A film-noir detective puppet-animated story takes place in a contemporary night-time city where the inhabitants take on dimensions of fairy-tale characters and all the while don ́t lose touch with everyday social reality._ 
 
 ## Lipsynk
+
+Picture here:
 
 - my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
 - lipsynk and 3D editing/modeling of the character parts 
