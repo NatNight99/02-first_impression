@@ -16,7 +16,7 @@ _...I’m also a pessimistic witch in my spear time. Don’t tell my mum, I dare
 
 ## [Featured projects](FeaturedProjects.md)
 
-### The Boots Walk Quietly 
+–The Boots Walk Quietly–
 
 _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But that all changes. On one fatefull day, a terrible evil with sharp teeth and two shoelaces walks into his life. Will he win his fight for survival? Or will the terrifying shoe devore him alive? We will see…_
   
@@ -37,7 +37,9 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
 - The main cast consists of:
   1. Blanka - a prideful sphynx cat who needs to learn to be confortable in her own skin
   2. Rupert - little energetic bengal kitten stealing Blanka’s spotlight and acting like a spoiled brat
-  3. Claudius - an old wise male maine coon cat, trying to keep the family together while facing his own mortality 
+  3. Claudius - an old wise male maine coon cat, trying to keep the family together while facing his own mortality
+ 
+     
 
 ### Babu in the Night City 
 - my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
