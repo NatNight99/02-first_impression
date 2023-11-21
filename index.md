@@ -18,7 +18,11 @@ _...I’m also a pessimistic witch in my spear time. Don’t tell my mum, I dare
 
 ## The Boots Walk Quietly
 
+# Gif
+
 _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But that all changes. On one fatefull day, a terrible evil with sharp teeth and two shoelaces walks into his life. Will he win his fight for survival? Or will the terrifying shoe devore him alive? We will see…_
+
+# Concept art
   
 - Concept art and story development of an animated movie
 - "The Boots Walk Quietly" is an animated short that was created in the last summer as a school project
