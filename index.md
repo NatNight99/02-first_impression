@@ -77,6 +77,10 @@ _"Following the mysterious disappearance of her dad, 8-year-old Babu is often al
 ## Lipsynk
 
 ![lipsynk](https://github.com/NatNight99/02-first_impression/assets/129601977/cdc307df-1e9f-4d85-8aa0-f978ce00a73f) 
+_Printed lipsynk
+![bab3](https://github.com/NatNight99/02-first_impression/assets/129601977/992fbbd9-b85c-4a95-b37e-890f25883b06)
+![Snímek obrazovky 2023-11-21 v 10 05 30](https://github.com/NatNight99/02-first_impression/assets/129601977/783b3925-bc63-4216-819f-65afe683e554)
+
 
 - my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
 - lipsynk and 3D editing/modeling of the character parts 
