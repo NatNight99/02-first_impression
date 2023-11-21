@@ -79,6 +79,7 @@ _"Following the mysterious disappearance of her dad, 8-year-old Babu is often al
 ![lipsynk](https://github.com/NatNight99/02-first_impression/assets/129601977/cdc307df-1e9f-4d85-8aa0-f978ce00a73f) 
 
 _Printed lipsynk_
+
 ![bab3](https://github.com/NatNight99/02-first_impression/assets/129601977/992fbbd9-b85c-4a95-b37e-890f25883b06)
 
 _sketches and instructions from our Art director_ 
