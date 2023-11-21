@@ -49,6 +49,14 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
 ### Storyboard
  
      
-### Babu in the Night City 
+## Babu in the Night City 
+
+Picture here:
+
+### Director’s statement
+_Following the mysterious disappearance of her dad, 8-year-old Babu is often alone at home with her parrot. When a thief steals it, Babu sets off on a night-time expedition to save her animal friend. During her journey, she finds unexpected allies: an unsuccessful rapper, a night jogger and a homeless man. Together, they must overcome the mad Professor X who is able to transform humans into animals and vice versa. A film-noir detective puppet-animated story takes place in a contemporary night-time city where the inhabitants take on dimensions of fairy-tale characters and all the while don ́t lose touch with everyday social reality._ 
+
+## Lipsynk
+
 - my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
 - lipsynk and 3D editing/modeling of the character parts 
