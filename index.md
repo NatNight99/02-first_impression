@@ -39,7 +39,7 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
 ### Concept art (picture here:) 
 
 - Storyboard and basic story concept
-- Made as an excercise in concept and storyboard for my drawing subjects
+- Made as an excercise in concept and storyboard for my drawing lesson with Mr. Korman 
 - The story is about a family of three cat’s living their dream life, until new arrival in the personification of a small disorderly kitten arrives
 - It’s basically a more serious story about harder subjects disguised as typical "animal’s adventures" popular in the 1980-1990s
 - The main cast consists of:
