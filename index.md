@@ -43,7 +43,9 @@ _Will he make it out alive?_
 
 ## Cat’s life ("Under the Cat’s Weather")
 
-### Concept art (picture here:) 
+### Concept art
+![cats together_](https://github.com/NatNight99/02-first_impression/assets/129601977/47fa7b3d-30c6-4a9e-bf89-ef60d146cf14) 
+_Cat’s together_
 
 - Storyboard and basic story concept
 - Made as an excercise in concept and storyboard for my drawing lesson with Mr. Korman 
