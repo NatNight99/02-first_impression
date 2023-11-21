@@ -4,7 +4,6 @@
 - [About](About.md)
 - [Featured projects](FeaturedProjects.md)
 
-![bota](https://github.com/NatNight99/02-first_impression/assets/129601977/085c9c6f-5a6a-4996-ab09-fe820878bf06) 
 ## [About](About.md)
 
 Hi, my name is Natálie Němcová. 
