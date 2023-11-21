@@ -13,7 +13,7 @@ I devoted my life to studying works art and trying to find my own creative voice
 ![unceremonious headshot](https://github.com/NatNight99/02-first_impression/assets/129601977/1501c6c7-d977-4770-a66a-f009901af6c1)
 
 
-_...I’m also a pessimistic witch in my spear time. Don’t tell my mum, I dare you..._ 
+_...I’m also a pessimistic witch in my spare time. Don’t tell my mum, I dare you..._ 
 
 ## [Featured projects](FeaturedProjects.md)
 
