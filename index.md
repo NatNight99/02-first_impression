@@ -60,10 +60,12 @@ _Cat’s together_
 ![kočky_headshots](https://github.com/NatNight99/02-first_impression/assets/129601977/56302a25-05de-4409-a946-1d914d1b54fe) 
 
 ### Storyboard 
-- few pages of storyboard 
+
 ![10](https://github.com/NatNight99/02-first_impression/assets/129601977/b0d17207-4bb7-4ab4-97a2-5672d0cdc6cd)
 ![11](https://github.com/NatNight99/02-first_impression/assets/129601977/a2d2c0b8-915e-4e97-822c-2533eea8cc28)
 ![12](https://github.com/NatNight99/02-first_impression/assets/129601977/c1ef20a1-43f8-4323-ab38-7d2d95eb2833)
+
+- few pages of storyboard
  
      
 ## Babu in the Night City 
@@ -88,4 +90,5 @@ _sketches and instructions from our Art director_
 _Inside Blender
 
 - My work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
-- lipsynk and 3D editing/modeling of the character parts 
+- lipsynk and 3D editing/modeling of the character parts
+- I have been working in team of artist’s, who specialize in animation and making of puppetry
