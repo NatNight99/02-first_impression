@@ -95,7 +95,7 @@ _Printed lipsynk_
 _sketches and instructions from our Art director_ 
 
 ![Snímek obrazovky 2023-11-21 v 10 05 30](https://github.com/NatNight99/02-first_impression/assets/129601977/783b3925-bc63-4216-819f-65afe683e554)
-_Inside Blender
+_Inside Blender_
 
 - My work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
 - lipsynk and 3D editing/modeling of the character parts
