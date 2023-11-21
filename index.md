@@ -68,10 +68,11 @@ _Cat’s together_
      
 ## Babu in the Night City 
 
-Picture here: official
+![Babu4_web](https://github.com/NatNight99/02-first_impression/assets/129601977/bc2eb208-707b-49df-8bd5-17ed8e0d15e2) 
+https://ceeanimation.eu/projects/babu-in-the-night-city-2/ 
 
 ### Director’s statement
-_Following the mysterious disappearance of her dad, 8-year-old Babu is often alone at home with her parrot. When a thief steals it, Babu sets off on a night-time expedition to save her animal friend. During her journey, she finds unexpected allies: an unsuccessful rapper, a night jogger and a homeless man. Together, they must overcome the mad Professor X who is able to transform humans into animals and vice versa. A film-noir detective puppet-animated story takes place in a contemporary night-time city where the inhabitants take on dimensions of fairy-tale characters and all the while don ́t lose touch with everyday social reality._ 
+_"Following the mysterious disappearance of her dad, 8-year-old Babu is often alone at home with her parrot. When a thief steals it, Babu sets off on a night-time expedition to save her animal friend. During her journey, she finds unexpected allies: an unsuccessful rapper, a night jogger and a homeless man. Together, they must overcome the mad Professor X who is able to transform humans into animals and vice versa. A film-noir detective puppet-animated story takes place in a contemporary night-time city where the inhabitants take on dimensions of fairy-tale characters and all the while don ́t lose touch with everyday social reality."_ 
 
 ## Lipsynk
 
