@@ -83,10 +83,9 @@ _Printed lipsynk_
 ![bab3](https://github.com/NatNight99/02-first_impression/assets/129601977/992fbbd9-b85c-4a95-b37e-890f25883b06)
 
 _sketches and instructions from our Art director_ 
+
 ![Snímek obrazovky 2023-11-21 v 10 05 30](https://github.com/NatNight99/02-first_impression/assets/129601977/783b3925-bc63-4216-819f-65afe683e554)
 _Inside Blender
-
-
 
 
 - my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
