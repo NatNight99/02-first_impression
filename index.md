@@ -18,11 +18,11 @@ _...I’m also a pessimistic witch in my spear time. Don’t tell my mum, I dare
 
 ## The Boots Walk Quietly
 
-# Gif
+### Gif
 
 _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But that all changes. On one fatefull day, a terrible evil with sharp teeth and two shoelaces walks into his life. Will he win his fight for survival? Or will the terrifying shoe devore him alive? We will see…_
 
-# Concept art
+### Concept art
   
 - Concept art and story development of an animated movie
 - "The Boots Walk Quietly" is an animated short that was created in the last summer as a school project
@@ -33,7 +33,10 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
 - Watch the whole short here: https://www.youtube.com/watch?v=OsIBCO0sSIc
 
 
-### Cat’s life ("Under The Cat’s Weather")
+## Cat’s life ("Under The Cat’s Weather")
+
+### Concept art
+
 - Storyboard and basic story concept
 - Made as an excercise in concept and storyboard for my drawing subjects
 - The story is about a family of three cat’s living their dream life, until new arrival in the personification of a small disorderly kitten arrives
@@ -42,9 +45,10 @@ _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But
   1. Blanka - a prideful sphynx cat who needs to learn to be confortable in her own skin
   2. Rupert - little energetic bengal kitten stealing Blanka’s spotlight and acting like a spoiled brat
   3. Claudius - an old wise male maine coon cat, trying to keep the family together while facing his own mortality
+
+### Storyboard
  
      
-
 ### Babu in the Night City 
 - my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
 - lipsynk and 3D editing/modeling of the character parts 
