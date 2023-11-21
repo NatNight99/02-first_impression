@@ -16,7 +16,7 @@ _...I’m also a pessimistic witch in my spear time. Don’t tell my mum, I dare
 
 ## [Featured projects](FeaturedProjects.md)
 
-–The Boots Walk Quietly–
+## The Boots Walk Quietly
 
 _Mr. Acornie is a little oak pixie, who lives peacefully in a little forest. But that all changes. On one fatefull day, a terrible evil with sharp teeth and two shoelaces walks into his life. Will he win his fight for survival? Or will the terrifying shoe devore him alive? We will see…_
   
