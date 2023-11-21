@@ -40,7 +40,12 @@ _Will he make it out alive?_
 - Watch the whole short here: https://www.youtube.com/watch?v=OsIBCO0sSIc
 
  ### The characters
+ ![pan zaloudek_loutka_02](https://github.com/NatNight99/02-first_impression/assets/129601977/ec9e9083-38b5-43ac-b32d-8dffbcf75e2a)
  
+ _Mr. Acornie concept_ 
+ 
+![bota](https://github.com/NatNight99/02-first_impression/assets/129601977/d54f361d-bb22-4fda-b895-69608ead5d12)
+_The devil incarnate_
 
 
 ## Cat’s life ("Under the Cat’s Weather")
@@ -95,3 +100,4 @@ _Inside Blender
 - My work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
 - lipsynk and 3D editing/modeling of the character parts
 - I have been working in team of artist’s, who specialize in animation and making of puppetry
+- If things go smoothily the film is expected to come out in 2026
