@@ -33,12 +33,8 @@ I’m an aspiring artist and writer with love for dark folktales and storytellin
 - It’s basically a more serious story about harder subjects disguised as typical "animal’s adventures" popular in the 1980-1990s
 - The main cast consists of:
   1. Blanka - a prideful sphynx cat who needs to learn to be confortable in her own skin
-  2. Rupus - little energetic kitten stealing Blanka’s spotlight and acting like a spoiled brat
-  3. 
-
-
-### Personal projects 
-
+  2. Rupert - little energetic bengal kitten stealing Blanka’s spotlight and acting like a spoiled brat
+  3. Claudius - an old wise male maine coon cat, trying to keep the family together while facing his own mortality 
 
 ### Babu in the Night City 
 - my work on the first long lenght film form Anima studio s.r.o., written and directed by Petr Vodička
