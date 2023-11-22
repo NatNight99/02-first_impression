@@ -56,7 +56,7 @@ _Cat’s together_
 
 - Storyboard and basic story concept
 - Made as an excercise in concept and storyboard for my drawing lessons with Mr. Korman 
-- The story is about a cat family, living their dream life, until the arrival in of a small disorderly kitten 
+- The story is about a cat family, living their dream life, until the arrival in form of a small disorderly kitten 
 - It’s basically a more serious story about harder subjects disguised as typical "animal’s adventures" popular in the 1980-1990s (live-action or animated)
   
 - The main cast consists of:
